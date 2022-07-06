@@ -1,56 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books App
 
-> Description the project.
-
+> In this project, I built a basic website that allows users to add/remove books from a list. I achieve that by using ES6 synthax . I also dynamically modify the DOM and add basic events.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- Css
+- Javascript
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and run:
 
+- git [clone](https://github.com/kelwilson/Awesome-books-app.git) in your terminal
 
-To get a local copy up and running follow these simple example steps.
+## Prerequisites
 
-### Prerequisites
+- Git/Github
+- VSCode or another equivalent tool
+- knowledge in Html and Javascript
 
-### Setup
+## Install
 
-### Install
+- npm install -g @lhci/cli@0.7.x
+- npm install --save-dev hint@6.x
+- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
-### Usage
+## Run the following tests
 
-### Run tests
+- npx hint .
+- npx eslint .
 
-### Deployment
+## Usage
 
+You're free to use this project however you like it for educational purposes. Just keep in mind the acknowledgment described below
 
+## Author
 
-## Authors
+👤 **Kelwilson**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/kelwilson)
+- Twitter: [@twitterhandle](https://twitter.com/BesongMaris)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kelly-besong-b33074237)
 
 ## 🤝 Contributing
 
@@ -61,12 +54,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
